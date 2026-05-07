@@ -1,0 +1,36 @@
+BioGen Business Website
+
+A simple responsive business website inspired by a real-world healthcare company website.
+This project was built using HTML and CSS as a frontend practice project to improve my web development and UI design skills.
+
+Features
+Responsive business-style layout
+Navigation bar with company details
+Hero banner section
+About, Vision, and Mission sections
+Product showcase images
+Contact call-to-action section
+Clean and structured UI design
+Technologies Used
+HTML5
+CSS3
+Purpose of the Project
+
+This project is completely hardcoded and was created for learning and practice purposes.
+The main goal was to improve my understanding of:
+
+Page structuring using HTML
+Styling and layouts using CSS
+Flexbox positioning
+Business website design patterns
+Building real-world frontend interfaces
+Learning Outcome
+
+By building this project, I gained hands-on experience in creating professional-looking business websites and improving frontend development fundamentals.
+
+Future Improvements
+Add JavaScript interactions
+Make the website fully mobile responsive
+Add backend functionality
+Improve animations and UI effects
+Add enquiry/contact form functionality

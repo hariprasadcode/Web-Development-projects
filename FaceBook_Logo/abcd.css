@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    .box{
+        
+        border: 1px solid rgb(91, 54, 255);
+         padding-left: 200px;
+        padding-right: 200px;
+        padding-top: 90px;
+        background-color: rgb(40, 40, 253);
+        border-radius: 50px;
+        h1{
+            font-size: 400px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: white;
+            
+           
+        }
+
+    }
+}

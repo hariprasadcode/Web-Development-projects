@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    background-color: skyblue;
+ 
+    
+    .image1{
+        
+        img{
+            width: 200px;
+            position: absolute;
+            bottom: 200px;
+            left: 700px;
+            border: 10px solid white;
+            
+
+        }
+    }
+    .img2{
+        img{
+            width: 200px;
+            position: absolute;
+            bottom: 90px;
+            left: 850px;
+            border: 10px solid white;
+        }
+    }
+    .img3{
+        img{
+            width: 200px;
+            position: absolute;
+            bottom: 500px;
+            left: 570px;
+            border: 10px solid white;
+        }
+    }
+    .title{
+        #text{
+            position: absolute;
+            bottom: 300px;
+            left: 610px;
+            font-size: 70px;
+            span{
+                color: white
+            }
+        }
+    }
+
+}

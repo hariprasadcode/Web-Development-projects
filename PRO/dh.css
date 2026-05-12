@@ -1,0 +1,96 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    background-color: black;
+   
+    .navbar{
+        display: flex;
+        height: 70px;
+        justify-content: end;
+        gap: 90px;
+        align-items: center;
+        margin-right: 190px;
+        a{
+            text-decoration: none;
+            font-size: 25px;
+            color: white;
+        }
+          a:hover{
+            
+            background-color: white;
+            color: black;
+            border-radius: 10px;
+            padding: 1px;
+        }
+        
+
+    }
+    .title{
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            color: white;
+            margin-right: 400px;
+            
+        
+            h1{
+                font-size: 40px;
+                width: 700px;
+                margin-left: 50px;
+            }
+            p{
+                margin-right:150px;
+                width: 500px;
+
+            }
+            
+            
+
+        }
+        .buttons{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 900px;
+            padding-right: 70px;
+            
+            button{
+                width: 300px;
+                height: 60px;
+              
+            }
+            .one{
+                background-color: black;
+                position: absolute;
+                top: 560px   ;
+                left: 230px;
+                border-radius: 10px;
+
+                input{
+                    width:300px ;
+                    height: 60px; 
+                    border-radius: 10px;
+                }
+            
+               
+            }
+            .two{
+                background-color: red;
+                color:white;
+                position: absolute;
+                 top: 560px   ;
+                 right: 650px;
+                 border-radius: 10px;
+            }
+            .two:hover{
+                background-color: green;
+            }
+            
+        }
+}
